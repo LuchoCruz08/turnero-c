@@ -1,0 +1,60 @@
+0
+Cambio de bujias
+3500
+0
+1
+Cambio de aceite y filtro
+50000
+5
+2
+Cambio del filtro de nafta y aire
+25000
+0
+3
+Cambio del refrigerante
+12000
+0
+4
+Cambio de la faja del alternador
+23000
+5
+5
+Ajuste del tiempo de encendido
+10000
+0
+6
+Revision de las luces y los faros
+12000
+0
+7
+Inspeccion del tubo del alternador y del tubo de vacío
+15000
+10
+8
+Inspeccion de las zapatas del freno de estacionamiento
+20000
+10
+9
+Desmontaje y rotacion de ruedas
+15000
+7
+10
+Alineacion de ruedas
+10000
+0
+11
+Cambio de pastillas de freno
+50000
+10
+12
+Lavado de Motor
+16000
+5
+13
+Lavado de Carroceria e interior
+7000
+0
+14
+Pulido de Carroceria
+60000
+10
